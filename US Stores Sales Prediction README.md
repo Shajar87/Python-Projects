@@ -11,6 +11,7 @@ This dataset contains information about Sales Values in Dollars of American Stor
 - Products' ID, Description, Type, Category, and Sale Date;
 - Accounting Info, such as Budget Margin, Profit, Total Expenses, and Marking.
 
+**Dataset Review**
 
 | S.No | Area Code | State       | Market | Market Size  | Profit | Margin | Sales | COGS  | Total Expenses | Marketing | Inventory | Budget Profit | Budget COGS | Budget Margin | Budget Sales | ProductId | Date                | Product Type | Product    | Type    |
 |------|-----------|-------------|--------|--------------|--------|--------|-------|-------|----------------|-----------|------------|----------------|-------------|---------------|--------------|-----------|---------------------|--------------|------------|---------|
