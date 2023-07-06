@@ -1,4 +1,4 @@
-## Project: US Stores' Sales Prediction
+## Project: US Stores Sales Prediction
 ### About The Project
 **Tool used: Python**
 
