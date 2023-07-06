@@ -10,6 +10,9 @@ The task was to perform exploratory data analysis to uncover insights into resta
 
 This analysis will help new restaurants in deciding their theme, menus, cuisine, cost, etc for a particular location.
 
+Also it will help people in finding best restaurants in the city.
+
+
 **Dataset Review**
 
 |   | address                                                   | name             | online_order | book_table | rate  | votes | phone               | location      | rest_type          | dish_liked                                              | cuisines                          | approx_cost(for two people) | reviews_list                                            | menu_item | listed_in(type) | listed_in(city) |
