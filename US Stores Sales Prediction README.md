@@ -34,4 +34,4 @@ This dataset contains information about Sales Values in Dollars of American Stor
   
 
 **For more details, please visit the Kaggle notebook link:**
-https://www.kaggle.com/code/mohd647/us-store-sale-prediction
+https://www.kaggle.com/code/mohd647/us-stores-sales-prediction
