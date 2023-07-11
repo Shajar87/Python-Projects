@@ -5,7 +5,8 @@
 
 ---
 In this project, I have to analyze customers' data from a bank. I performed an exploratory analysis in order to gain insights into the primary factors influencing customer churn. 
-Additionally, we will develop a machine learning model to accurately predict customer churn.
+
+Additionally, I also developed a machine learning model to accurately predict customer churn with an accuracy of 99.9%.
 
 The dataset contains the bank customer's details like his\her 
 - Credit Score,	Age, Tenure,	
