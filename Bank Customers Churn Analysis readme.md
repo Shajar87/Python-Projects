@@ -23,7 +23,8 @@ The dataset contains the bank customer's details like his\her
 
 
 ---
-**The steps involved were as:**
+**A series of steps that were taken were as follows:**
+
 1. Importing the Required Libraries:
    - Pandas: Data manipulation and analysis.
    - NumPy: Mathematical operations and array processing.
