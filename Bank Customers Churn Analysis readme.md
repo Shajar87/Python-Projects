@@ -73,7 +73,7 @@ The dataset contains the bank customer's details like his\her
 
 
 
-**For more details, please visit the Kaggle notebook link:**
+**For more details, please visit the Kaggle notebook link below:**
 
 https://www.kaggle.com/code/mohd647/bank-customers-churn-analysis-prediction
 
