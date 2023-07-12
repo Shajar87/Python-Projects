@@ -73,8 +73,8 @@ The dataset contains the bank customer's details like his\her
 
 
 
-**For more details, please visit the Kaggle notebook link below:**
+**For more details, please visit the Jupyter notebook link below:**
 
-https://www.kaggle.com/code/mohd647/bank-customers-churn-analysis-prediction
+https://github.com/Shajar87/Projects-Files/blob/main/Bank%20Customers%20Churn%20Analysis.ipynb
 
 
