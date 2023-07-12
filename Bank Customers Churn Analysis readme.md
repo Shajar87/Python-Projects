@@ -4,7 +4,7 @@
 **Tool used: Python**
 
 ---
-In this project, I have to analyze customers' data from a bank. I performed an exploratory analysis in order to gain insights into the primary factors influencing customer churn. 
+In this project, I have to analyze customers' data from a bank. I performed an exploratory analysis to gain insights into the primary factors influencing customer churn. 
 
 Additionally, I also developed a machine learning model to accurately predict customer churn with an accuracy of 99.9%.
 
@@ -76,4 +76,3 @@ The dataset contains the bank customer's details like his\her
 **For more details, please visit the Kaggle Notebook link below:**
 
 https://www.kaggle.com/code/mohd647/bank-customers-churn-analysis-prediction
-
