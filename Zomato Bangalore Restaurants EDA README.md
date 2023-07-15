@@ -1,5 +1,5 @@
 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++## Project: Zomato Bangalore Restaurants Project
+## Project: Zomato Bangalore Restaurants Project
 ### About The Project
 **Tool used: Python**
 
@@ -35,15 +35,15 @@ The dataset used for this analysis consists of Bangalore-based restaurants regis
  
 **Step 2. Exploratory Data Analysis (EDA)**
 
-- Correlation Analysis: Explore correlations between variables to identify any significant relationships. For example, analyzing the correlation between ratings and votes or ratings and costs can provide insights into customer preferences and pricing strategies.
+- **Correlation Analysis:** Explored correlations between variables to identify any significant relationships. For example, analyzing the correlation between ratings and votes or ratings and costs can provide insights into customer preferences and pricing strategies.
   
-- Statistical Summary: Calculate basic statistics of columns such as ratings, votes, and costs. This provides an overview of the data distribution and helps identify any outliers or unusual values.
+- **Statistical Summary:** Calculated basic statistics of columns such as ratings, votes, and costs. This provides an overview of the data distribution and helps identify any outliers or unusual values.
 
-- Data Visualization: Utilize various visualization techniques, such as histogram, bar plot, scatter plot, donut chart, and boxplot to explore the data and gain insights.
+- **Data Visualization:** Utilized various visualization techniques, such as histogram, bar plot, scatter plot, donut chart, and boxplot to explore the data and gain insights.
   
-- Analysis by Categories: Analyze the distribution of ratings, votes, and costs based on different categories such as location, online order availability, and book table service availability. This allows us to understand variations and preferences across different segments.
+- **Analysis by Categories:** Analyzed the distribution of ratings, votes, and costs based on different categories such as location, online order availability, and book table service availability. This allows us to understand variations and preferences across different segments.
 
-- Identification of Insights: Extract meaningful insights from the EDA results, such as popular cuisines, the impact of online ordering and table booking on ratings, customer preferences based on location, and cost distributions. These insights form the basis for making recommendations to any typical customer or a person who wants to open a new restaurant in the city.
+- **Extraction of Insights:** Extracted meaningful insights from the EDA results, such as popular cuisines, the impact of online ordering and table booking on ratings, customer preferences based on location, and cost distributions. These insights form the basis for making recommendations to any typical customer or a person who wants to open a new restaurant in the city.
 
 
 
