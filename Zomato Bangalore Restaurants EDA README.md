@@ -1,5 +1,5 @@
 
-## Project: Zomato Bangalore Restaurants Project
+## Project: Bangalore-Based Restaurants EDA
 ### About The Project
 **Tool used: Python**
 
