@@ -22,7 +22,7 @@ The dataset used for this analysis consists of Bangalore-based restaurants regis
 
 
 ---
-**The steps involved in this analysis are as:**
+**Steps involved in this analysis are as:**
 
 **Step 1. Data Profiling and Cleaning**
 - Checked Data Dimensions: Check the dimensions of the dataset to understand the number of rows and columns.
