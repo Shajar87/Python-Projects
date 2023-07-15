@@ -8,10 +8,10 @@
 This project aims to analyze **Bangalore-based restaurants' data registered on Zomato** and get valuable insights. Our goal is to understand the restaurant landscape in Bangalore, identify popular cuisines, explore the impact of online ordering and table booking, analyze cost distributions, and make recommendations to improve customer satisfaction and business growth. It can also help people in finding the best restaurants according to their preferences and needs in the city.
 
 **Dataset:** 
-The dataset used for this analysis consists of Bangalore-based restaurants registered on Zomato. It includes several columns with relevant information such as - - - restaurant names, 
-- online order availability, 
-- ratings, location, 
-- restaurant type, and more. 
+The dataset used for this analysis consists of Bangalore-based restaurants registered on Zomato. It includes several columns with relevant information such as - - - restaurant names
+- online order availability
+- ratings, location 
+- restaurant type, etc. 
 
 
 **Cleaned Dataset Review**
@@ -31,8 +31,8 @@ The dataset used for this analysis consists of Bangalore-based restaurants regis
 - Checked Data Dimensions: Check the dimensions of the dataset to understand the number of rows and columns.
 - Checked Data Types: Examine the data types of each column to ensure they are correctly assigned and handle any inconsistencies.
 - Handled Missing Values: Identify missing values in the dataset and decide on an appropriate strategy to handle them (e.g., imputation or removal).
-- Dropped Redundant Columns: Dropped some of the columns as they were not useful in this analysis.
-- Renamed Columns: Renamed columns to make them more readable.
+- Dropped Redundant Columns: Dropped some of the columns as they were not helpful in this analysis.
+- Renamed Columns: Renamed a few columns to make them more readable.
 - Changed Some of The Values of a Few Columns: Do so to make the analysis easy.
 
  
@@ -44,7 +44,7 @@ The dataset used for this analysis consists of Bangalore-based restaurants regis
 
 - **Data Visualization:** Utilized various visualization techniques, such as histogram, bar plot, scatter plot, donut chart, and boxplot to explore the data and gain insights.
   
-- **Analysis by Categories:** Analyzed the distribution of ratings, votes, and costs based on different categories such as location, online order availability, and book table service availability. This allows us to understand variations and preferences across different segments.
+- **Analysis by Categories:** Analyzed the distribution of ratings, votes, and costs based on different categories such as location, online order availability, and book table service availability. This allows us to understand variations and preferences across various segments.
 
 - **Extraction of Insights:** Extracted meaningful insights from the EDA results, such as popular cuisines, the impact of online ordering and table booking on ratings, customer preferences based on location, and cost distributions. These insights form the basis for making recommendations to any typical customer or a person who wants to open a new restaurant in the city.
 
