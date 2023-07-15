@@ -1,5 +1,5 @@
 
-## Project: Bangalore-Based Restaurants EDA
+## Project: EDA of Bangalore-based Restaurants
 ### About The Project
 **Tool used: Python**
 
