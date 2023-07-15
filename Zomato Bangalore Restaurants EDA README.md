@@ -13,27 +13,39 @@ This analysis will help new restaurants in deciding their theme, menus, cuisine,
 Also it will help people in finding best restaurants in the city.
 
 
-**Dataset Review**
+**Cleaned Dataset Review**
 
-|   | address                                                   | name             | online_order | book_table | rate  | votes | phone               | location      | rest_type          | dish_liked                                              | cuisines                          | approx_cost(for two people) | reviews_list                                            | menu_item | listed_in(type) | listed_in(city) |
-|---|-----------------------------------------------------------|------------------|--------------|------------|-------|-------|---------------------|----------------|--------------------|---------------------------------------------------------|-----------------------------------|-----------------------------|---------------------------------------------------------|-----------|-----------------|-----------------|
-| 0 | 942, 21st Main Road, 2nd Stage, Banashankari, ...          | Jalsa            | Yes          | Yes        | 4.1/5 | 775   | 080 42297555       | Banashankari   | Casual Dining      | Pasta, Lunch Buffet, Masala Papad, Paneer Laja...      | North Indian, Mughlai, Chinese   | 800                         | [('Rated 4.0', 'RATED\n A beautiful place to ... | []        | Buffet          | Banashankari    |
-| 1 | 2nd Floor, 80 Feet Road, Near Big Bazaar, 6th ...          | Spice Elephant   | Yes          | No         | 4.1/5 | 787   | 080 41714161       | Banashankari   | Casual Dining      | Momos, Lunch Buffet, Chocolate Nirvana, Thai G...      | Chinese, North Indian, Thai      | 800                         | [('Rated 4.0', 'RATED\n Had been here for din... | []        | Buffet          | Banashankari    |
-| 2 | 1112, Next to KIMS Medical College, 17th Cross...          | San Churro Cafe  | Yes          | No         | 3.8/5 | 918   | +91 9663487993      | Banashankari   | Cafe, Casual Dining | Churros, Cannelloni, Minestrone Soup, Hot Choc...      | Cafe, Mexican, Italian           | 800                         | [('Rated 3.0', "RATED\n Ambience is not that ... | []        | Buffet          | Banashankari    |
+| name              | online_order | book_table | rate | votes | location      | rest_type       | cuisines                            | cost2persons | type   |
+|-------------------|--------------|------------|------|-------|---------------|-----------------|-------------------------------------|--------------|--------|
+| Jalsa             | Yes          | Yes        | 4.1  | 775   | Banashankari  | Casual Dining   | North Indian, Mughlai, Chinese       | 800.0        | Buffet |
+| Spice Elephant    | Yes          | No         | 4.1  | 787   | Banashankari  | Casual Dining   | Chinese, North Indian, Thai          | 800.0        | Buffet |
+| San Churro Cafe   | Yes          | No         | 3.8  | 918   | Banashankari  | others          | Cafe, Mexican, Italian               | 800.0        | Buffet |
+
 
 
 ---
-**The steps involved in the analysis are:**
-1. Cleaned the data
-- Dropped some irrelevant columns from the dataset.
-- Renamed some columns for of making the analysis easier.
-- Filled NAN values with the mean of the respective column.
+**The steps involved in this analysis are as:**
+
+**Step 1.** Data Profiling and Cleaning
+- Checked Data Dimensions: Check the dimensions of the dataset to understand the number of rows and columns.
+- Checked Data Types: Examine the data types of each column to ensure they are correctly assigned and handle any inconsistencies.
+- Handled Missing Values: Identify missing values in the dataset and decide on an appropriate strategy to handle them (e.g., imputation or removal).
+- Dropped Redundant Columns: Dropped ['url', 'address','phone','menu_item','dish_liked','reviews_list','listed_in(city)']
+- Renamed Columns: Renamed columns 'approx_cost(for two people)' to'cost2persons' and 'listed_in(type)' to 'type'.
+- Changed Values of Some of The Columns: Do so to make the analysis easy.
+
+ 
 2. Exploratory data analysis e.g.
-- Found locations which are best under Rs. 1000 budget for 2 persons.
-- Plotted heatmap to show a correlation between different features.
-- Found location which has the most number of restaurants. 
-- Compared online/offline orders with respective rates.
-- Found Favourite cuisine in Banglore etc.
+
+- Correlation Analysis: Explore correlations between variables to identify any significant relationships. For example, analyzing the correlation between ratings and votes or ratings and costs can provide insights into customer preferences and pricing strategies.
+  
+- Statistical Summary: Calculate basic statistics of columns such as ratings, votes, and costs. This provides an overview of the data distribution and helps identify any outliers or unusual values.
+
+- Data Visualization: Utilize various visualization techniques, such as histogram, bar plot, scatter plot,donut chart, boxplot to explore the data and gain insights.
+  
+- Analysis by Categories: Analyze the distribution of ratings, votes, and costs based on different categories such as location, online order availability, and restaurant type. This allows us to understand variations and preferences across different segments.
+
+- Identification of Insights: Extract meaningful insights from the EDA results, such as popular cuisines, the impact of online ordering and table booking on ratings, customer preferences based on location, and cost distributions. These insights form the basis for making recommendations to the client.
 
 
 
