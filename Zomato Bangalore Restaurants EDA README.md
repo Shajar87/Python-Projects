@@ -1,4 +1,5 @@
-## Project: Zomato Bangalore Restaurants Project
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++## Project: Zomato Bangalore Restaurants Project
 ### About The Project
 **Tool used: Python**
 
@@ -23,7 +24,7 @@ The dataset used for this analysis consists of Bangalore-based restaurants regis
 ---
 **The steps involved in this analysis are as:**
 
-**Step 1.** Data Profiling and Cleaning
+**Step 1. Data Profiling and Cleaning**
 - Checked Data Dimensions: Check the dimensions of the dataset to understand the number of rows and columns.
 - Checked Data Types: Examine the data types of each column to ensure they are correctly assigned and handle any inconsistencies.
 - Handled Missing Values: Identify missing values in the dataset and decide on an appropriate strategy to handle them (e.g., imputation or removal).
@@ -32,7 +33,7 @@ The dataset used for this analysis consists of Bangalore-based restaurants regis
 - Changed Some of The Values of a Few Columns: Do so to make the analysis easy.
 
  
-2. Exploratory Data Analysis (EDA)
+**Step 2. Exploratory Data Analysis (EDA)**
 
 - Correlation Analysis: Explore correlations between variables to identify any significant relationships. For example, analyzing the correlation between ratings and votes or ratings and costs can provide insights into customer preferences and pricing strategies.
   
