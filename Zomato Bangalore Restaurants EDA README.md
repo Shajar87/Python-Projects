@@ -8,7 +8,10 @@
 This project aims to analyze **Bangalore-based restaurants' data registered on Zomato** and get valuable insights. Our goal is to understand the restaurant landscape in Bangalore, identify popular cuisines, explore the impact of online ordering and table booking, analyze cost distributions, and make recommendations to improve customer satisfaction and business growth. It can also help people in finding the best restaurants according to their preferences and needs in the city.
 
 **Dataset:** 
-The dataset used for this analysis consists of Bangalore-based restaurants registered on Zomato. It includes several columns with relevant information such as restaurant names, online order availability, table booking options, ratings, votes, location, restaurant type, cuisines, cost for two persons, and more. 
+The dataset used for this analysis consists of Bangalore-based restaurants registered on Zomato. It includes several columns with relevant information such as - - - restaurant names, 
+- online order availability, 
+- ratings, location, 
+- restaurant type, and more. 
 
 
 **Cleaned Dataset Review**
@@ -22,7 +25,7 @@ The dataset used for this analysis consists of Bangalore-based restaurants regis
 
 
 ---
-**Steps involved in this analysis are as:**
+**Steps that are taken in this analysis are as follows:**
 
 **Step 1. Data Profiling and Cleaning**
 - Checked Data Dimensions: Check the dimensions of the dataset to understand the number of rows and columns.
@@ -47,4 +50,5 @@ The dataset used for this analysis consists of Bangalore-based restaurants regis
 
 
 
-**For more details, please visit the Kaggle notebook link:** https://www.kaggle.com/code/mohd647/zomato-bangalore-data-eda
+**For more details, please visit the Kaggle notebook link:** 
+https://www.kaggle.com/code/mohd647/zomato-bangalore-data-eda
