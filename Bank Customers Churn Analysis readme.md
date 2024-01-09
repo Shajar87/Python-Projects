@@ -8,6 +8,9 @@ In this project, I have to analyze customers' data from a bank. I performed an e
 
 Additionally, I also developed a machine learning model to accurately predict customer churn with an accuracy of 99.9%.
 
+**Kaggle Notebook link:**
+https://www.kaggle.com/code/mohd647/bank-customers-churn-analysis-prediction
+
 The dataset contains the bank customer's details like his\her 
 - Credit Score,	Age, Tenure,	
 - having a credit card or not,	
@@ -72,7 +75,3 @@ The dataset contains the bank customer's details like his\her
     - Make recommendations based on the analysis, such as strategies to decrease churn rate.
 
 
-
-**For more details, please visit the Kaggle Notebook link below:**
-
-https://www.kaggle.com/code/mohd647/bank-customers-churn-analysis-prediction
