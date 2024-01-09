@@ -5,6 +5,9 @@
 ---
 In this project, the goal was to predict the sales of stores located in the USA with the help of machine learning techniques. 
 
+**Kaggle Notebook Link:**
+https://www.kaggle.com/code/mohd647/us-stores-sales-prediction
+
 This dataset contains information about Sales Values in Dollars of American Stores between 2010 and 2011. In particular, this dataset contains:
 
 - Stores' Area, State, Region, and Size;
@@ -31,7 +34,4 @@ This dataset contains information about Sales Values in Dollars of American Stor
 - Calculated and plotted **mutual information score** for discrete & continuous features.
 - Did preprocessing and label encoding of data using **StandardScaler** and **LabelEncoder** respectively.
 - Finally, created a predictive model using Random Forest Regressor.
-  
 
-**For more details, please visit the Kaggle notebook link:**
-https://www.kaggle.com/code/mohd647/us-stores-sales-prediction
