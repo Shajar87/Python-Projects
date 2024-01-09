@@ -7,6 +7,9 @@
 **Problem Statement:** 
 This project aims to analyze **Bangalore-based restaurants' data registered on Zomato** and get valuable insights. Our goal is to understand the restaurant landscape in Bangalore, identify popular cuisines, explore the impact of online ordering and table booking, analyze cost distributions, and make recommendations to improve customer satisfaction and business growth. It can also help people in finding the best restaurants according to their preferences and needs in the city.
 
+**Kaggle Notebook Link:** 
+https://www.kaggle.com/code/mohd647/zomato-bangalore-data-eda
+
 **Dataset:** 
 The dataset used for this analysis consists of Bangalore-based restaurants registered on Zomato. It includes several columns with relevant information such as
 - restaurant names
@@ -49,7 +52,3 @@ The dataset used for this analysis consists of Bangalore-based restaurants regis
 
 - **Extraction of Insights:** Extracted meaningful insights from the EDA results, such as popular cuisines, the impact of online ordering and table booking on ratings, customer preferences based on location, and cost distributions. These insights form the basis for making recommendations to any typical customer or a person who wants to open a new restaurant in the city.
 
-
-
-**For more details, please visit the Kaggle notebook link:** 
-https://www.kaggle.com/code/mohd647/zomato-bangalore-data-eda
