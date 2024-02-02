@@ -14,6 +14,6 @@ I was able to gather valuable information on various credit cards offered by ICI
 4. Analyzed after organized the extracted data using Excel.
 
 
-**Code link:** https://github.com/Shajar87/Project_Portfolio/blob/main/ICICI%20Credit%20Cards.ipynb
+**Code link:** https://github.com/Shajar87/Projects-Files/blob/main/Credit%20Card%20Details.ipynb
 
 **For more details, please visit the Excel workbook link:** https://github.com/Shajar87/Project_Portfolio/blob/main/Credit%20Card%20details.xlsx
